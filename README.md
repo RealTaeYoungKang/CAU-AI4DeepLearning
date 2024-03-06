@@ -1,4 +1,4 @@
-# CAU-AI
+# CAU-AI4DeepLearning
 
 Author : TaeYoungKang
 
